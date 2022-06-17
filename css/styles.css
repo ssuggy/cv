@@ -1,0 +1,40 @@
+body {
+    background-color: #FEE3EC;
+}
+hr {
+    background-color: #FEE3EC;
+    background-color: #FEE3EC;
+    border-style: dotted none none;
+    border-color: #F999B7;
+    border-width: 6px;
+    border-radius: 0;
+    height: 0px;
+    width: 3%;
+} 
+img { 
+    height: 200px;
+}
+h1 {
+    color: #F2789F;
+    text-align: center;
+}
+h2{
+    color: #F2789F;
+    text-align: center;
+}
+h3 {
+    color: #F2789F;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+table{
+    text-align: center;
+}
